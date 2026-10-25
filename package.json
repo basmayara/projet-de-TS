@@ -1,0 +1,13 @@
+{
+  "name": "ts_project",
+  "version": "1.0.0",
+  "description": "Hogwarts Academy - TypeScript course project (TAF 1 to 6)",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "dev": "tsc && node dist/main.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}
